@@ -1,5 +1,5 @@
 homepage: "https://www.salesautopilot.hu"
 documentation: "https://support.salesautopilot.com/hc/hu/articles/7272584481052"
 versions:
-  - sha: e1923b3a6dc81e4de9511b0c72def9c4b7faa2fb
+  - sha: a035e0f986addab7c3bda1896522582369abe723
     changeNotes: Initial release.
