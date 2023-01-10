@@ -17,9 +17,9 @@ ___INFO___
   "categories": ["CONVERSIONS", "EMAIL_MARKETING"],
   "brand": {
     "id": "brand_dummy",
-    "displayName": ""
+    "displayName": "SalesAutopilot"
   },
-  "description": "",
+  "description": "If you use Google Analytics, SalesAutopilot can link the amount of purchases measured by Analytics to the letter from which the visitor arrived at your website before the purchase.",
   "containerContexts": [
     "WEB"
   ]
