@@ -3,9 +3,11 @@ documentation: "https://support.salesautopilot.com/hc/hu/articles/7272584481052"
 versions:
   #Latest version
   - sha: bd28ee6e9fa032040363992f6825ac381d04ac85
-    changeNotes: Update brand logo
+    changeNotes: |3
+      Update brand logo
   #Older versions
   - sha: 5873821d5d9bfa4ff26effc6d32a4cd1b91cbcdb
-    changeNotes: Update description and brand.
+    changeNotes: |2
+      Update description and brand.
   - sha: a035e0f986addab7c3bda1896522582369abe723
     changeNotes: Initial release.
